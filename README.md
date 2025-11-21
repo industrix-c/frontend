@@ -2,6 +2,19 @@
 
 This document provides a comprehensive guide for new team members to set up, run, and understand the frontend for the Todo List application.
 
+## Screenshoot
+### 1. Homepage
+![alt text](sc/image.png)
+
+### 2. Create todo
+![alt text](sc/image.png)
+
+### 3. Category page
+![alt text](sc/image3.png)
+
+### 4. Create category
+![alt text](sc/image4.png)
+
 ## 1. Project Overview
 
 This project is the frontend client for the Todo List application, built as a modern Single-Page Application (SPA) using **React** and **TypeScript**. It provides a clean, interactive, and responsive user interface for managing todos and their associated categories.
